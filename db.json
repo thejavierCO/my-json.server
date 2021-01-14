@@ -1,11 +1,22 @@
 {
     "posts": [
       {
-        "id": 1,
-        "title": "hello"
+        "id":0,
+        "title":"ajsdjoasd",
+        "description":"jiasdjadjso"
+      },
+      {
+        "id":1,
+        "title":"ajsdjoasd",
+        "description":"jiasdjadjso"
+      },
+      {
+        "id":2,
+        "title":"ajsdjoasd",
+        "description":"jiasdjadjso"
       }
     ],
     "profile": {
-      "name": "typicode"
+      "name": "javier cruz obispo"
     }
   }
