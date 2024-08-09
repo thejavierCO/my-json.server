@@ -1,22 +1,5 @@
 {
-    "posts": [
-      {
-        "id":0,
-        "title":"ajsdjoasd",
-        "description":"jiasdjadjso"
-      },
-      {
-        "id":1,
-        "title":"ajsdjoasd",
-        "description":"jiasdjadjso"
-      },
-      {
-        "id":2,
-        "title":"ajsdjoasd",
-        "description":"jiasdjadjso"
-      }
-    ],
-    "profile": {
-      "name": "kidkidkodkd"
-    }
-  }
+    "list":[
+        "https://i.imgur.com/Y2q467x_d.webp?maxwidth=760&fidelity=grand"
+    ]
+}
